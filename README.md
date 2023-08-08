@@ -1,4 +1,14 @@
-### Hi there 👋
+👋 Hi there! I'm Amadou Diene, a passionate data enthusiast with a strong foundation in Mathematics and Statistics from Concordia University.
+
+🎓 Major: Mathematics and Statistics, Concordia University
+
+🧠 Skills: SQL (PostgreSQL), Python (Pandas, Scikit-learn, Statsmodels, Seaborn, Matplotlib, NumPy, SciPy)
+
+🛠️ Expertise: Data Management | Exploratory Analysis | Statistical Experimentation | Model Developement
+
+My portfolio can be seen [here](https://github.com/AmadouDiene/Portfolio)
+
+My linkedIn can be reached [here](https://www.linkedin.com/in/amadou-diene/)
 
 <!--
 **AmadouDiene/AmadouDiene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
