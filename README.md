@@ -8,7 +8,7 @@
 
 My portfolio can be seen [here](https://github.com/AmadouDiene/Portfolio)
 
-My linkedIn can be reached [here](https://www.linkedin.com/in/amadou-diene/)
+My LinkedIn can be reached [here](https://www.linkedin.com/in/amadou-diene/)
 
 <!--
 **AmadouDiene/AmadouDiene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
